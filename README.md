@@ -14,6 +14,7 @@ I keep this repository because I believe in writing things down. A written decis
 |---|---|
 | [MCU downsizing case study](mcu-downsizing-case-study.md) | How we won over a sceptical customer on a hardware architecture change, using written evidence and phased validation instead of persuasion. |
 | [RCA template](rca-template.md) | The blameless root-cause analysis format I use for production issues: timeline, five whys, "why didn't we catch it earlier?", and actions with an owner and a date. |
+| automation-notes.md | Reusable AI prompt templates for status reports, executive summaries and team communication, and the leverage they create. |
 
 ## How I work, in short
 
